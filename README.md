@@ -179,7 +179,7 @@ Plots, regression results, and ML model output all render between the lines that
 
 ### Packages included
 
-`numpy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `plotnine`, `plotly`, `scikit-learn`, `statsmodels`, `nltk`, `beautifulsoup4`, `requests`, `pillow`, `psutil`, `glpk`.
+`numpy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `plotnine`, `plotly`, `scikit-learn`, `statsmodels`, `sympy`, `nltk`, `beautifulsoup4`, `requests`, `pillow`, `openpyxl`, `psutil`.
 
 If a package your class needs isn't on this list, please [open an issue](https://github.com/ransbotham3/MainsailPilots/issues). The goal is to cover the standard intro-analytics and intro-ML stack out of the box.
 
