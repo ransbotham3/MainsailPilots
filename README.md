@@ -87,7 +87,7 @@ Break the cycle. Give beginners a positive coding experience first, building onl
 
 - **Mac & Windows app.** Standalone, no Python install, no package manager (pip/uv/conda), no terminal.
 - **Runs Python line by line.** Inline output and a live memory view.
-- **25+ packages built in**, including pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn, and plotly.
+- **30+ packages built in**, including pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn, and plotly.
 - **Embedded LLM tutor (DPO-tuned).** Guides learning; doesn't write the code for the user.
 - **Uses `.ipynb` and `.py`.** Fits the file formats users will use later.
 - **LaTeX math, rich markdown, data previewer, slide mode** built in.
